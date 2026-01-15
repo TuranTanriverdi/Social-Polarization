@@ -1,6 +1,6 @@
 # The Dynamics of Polarization: Four Phases of Attractor Collapse in Societies
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)](https://doi.org/10.5281/zenodo.18262713)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Replication code and data for the manuscript:** *"The Dynamics of Polarization: Four Phases of Attractor Collapse in Societies"*
@@ -288,7 +288,7 @@ where *J* is the Jacobian of the interaction term. For χ > χ_c, social forces 
 
 - **Issues**: Please report bugs or request features via [GitHub Issues](https://github.com/[username]/Social-Polarization/issues)
 - **Pull requests**: Contributions welcome (code improvements, documentation, additional analyses)
-- **Contact**: [Your email or institutional page]
+- **Contact**: turantanriverdi84@gmail.com
 
 ---
 
@@ -320,6 +320,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Repository**: https://github.com/[username]/Social-Polarization
 
-**Preprint**: https://doi.org/10.5281/zenodo.XXXXXXX
+**Preprint**: [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.18262713)
 
 **Last updated**: January 2025
