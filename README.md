@@ -1,6 +1,6 @@
 # The Dynamics of Polarization: Four Phases of Attractor Collapse in Societies
 
-[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)](https://doi.org/10.5281/zenodo.18262713)
+[https://doi.org/10.5281/zenodo.18262713](https://doi.org/10.5281/zenodo.18262713)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Replication code and data for the manuscript:** *"The Dynamics of Polarization: Four Phases of Attractor Collapse in Societies"*
