@@ -318,7 +318,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Repository**: https://github.com/[username]/Social-Polarization
+**Repository**: https://github.com/turantanriverdi/Social-Polarization
 
 **Preprint**: [https://doi.org/10.5281/zenodo.18262713]
 
